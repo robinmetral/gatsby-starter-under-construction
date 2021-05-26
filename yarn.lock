@@ -3386,6 +3386,19 @@
     "@theme-ui/css" "^0.6.2"
     "@types/styled-system" "^5.1.10"
 
+"@theme-ui/components@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@theme-ui/components/-/components-0.9.1.tgz#529165cfa01b9c573de6bc8726bfa2521ff4c40d"
+  integrity sha512-ZrJd9AAEpQfEw+SNcr1A59z5MvuEy01ii4wjfpDhkNDyFmbr9malEos9d/JUE3ZwTu6QQnnB6xe9Hf0f5VE0ww==
+  dependencies:
+    "@emotion/react" "^11.1.1"
+    "@emotion/styled" "^11.0.0"
+    "@styled-system/color" "^5.1.2"
+    "@styled-system/should-forward-prop" "^5.1.2"
+    "@styled-system/space" "^5.1.2"
+    "@theme-ui/css" "0.9.1"
+    "@types/styled-system" "^5.1.10"
+
 "@theme-ui/core@^0.6.2":
   version "0.6.2"
   resolved "https://registry.yarnpkg.com/@theme-ui/core/-/core-0.6.2.tgz#ef8e604d601b7f0df2931893092ec0b95295542c"
@@ -3395,6 +3408,14 @@
     "@theme-ui/css" "^0.6.2"
     "@theme-ui/parse-props" "^0.6.2"
     deepmerge "^4.2.2"
+
+"@theme-ui/css@0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.9.1.tgz#f5f9b02b7de243acde5089011e7e7312afb5ae55"
+  integrity sha512-wVNJp7LIZhfXx7HdziJan0qfC8Iz6xcP/PVjFRVBupbmeGUkTM3UgfnsU3TkVQMLn0BxYe5AvaeOeKlVTx/k+g==
+  dependencies:
+    "@emotion/react" "^11.1.1"
+    csstype "^3.0.5"
 
 "@theme-ui/css@^0.6.2":
   version "0.6.2"

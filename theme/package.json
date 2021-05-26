@@ -18,7 +18,7 @@
     "url": "https://github.com/robinmetral/gatsby-theme-oss/issues"
   },
   "dependencies": {
-    "@theme-ui/components": "^0.6.2",
+    "@theme-ui/components": "^0.9.1",
     "gatsby-plugin-manifest": "^2.12.1",
     "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-react-helmet": "^3.10.0",
