@@ -22,11 +22,11 @@
     "gatsby-plugin-manifest": "^2.12.1",
     "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-react-helmet": "^3.10.0",
-    "gatsby-plugin-theme-ui": "^0.6.2",
+    "gatsby-plugin-theme-ui": "^0.9.1",
     "gatsby-source-graphql": "^2.14.0",
     "lodash": "^4.17.21",
     "react-helmet": "^6.1.0",
-    "theme-ui": "^0.6.2"
+    "theme-ui": "^0.9.1"
   },
   "peerDependencies": {
     "gatsby": "^2.32.8",
